@@ -6,6 +6,7 @@ body{
     font-size: 62.5%;
     font-family: 'Bricolage Grotesque', 'Helvetica', sans-serif;
     padding: 1vh 10%;
+    min-height: 100vh;
 }
 .bigBody{
     padding: 0 3.5%;
